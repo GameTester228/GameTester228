@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Tester</h1>
+<h3 align="center">
+	<img src="https://tester.kappa.lol/zKGSn.png" width="600" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 <h3 align="center">Программист из деревни</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gametester228&label=Profile%20views&colorA=363a4f&colorB=b7bdf8&style=for-the-badge" alt="gametester228" /> </p>
